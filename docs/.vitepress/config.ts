@@ -1,4 +1,5 @@
 import { defineConfig } from 'vitepress';
+import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
   lang: 'fr-FR',
@@ -6,6 +7,9 @@ export default defineConfig({
   description:
     'A structured Spanish learning resource, from beginner to advanced.',
 
+  vite: {
+    plugins: [tailwindcss()],
+  },
   themeConfig: {
     nav: [{ text: 'Home', link: '/' }],
 

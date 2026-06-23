@@ -1,2 +1,7 @@
 @import "tailwindcss";
 @source "../../**/*.md";
+
+.vp-doc .no-underline {
+    text-decoration: none;
+}
+  
