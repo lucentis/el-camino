@@ -1,11 +1,55 @@
+---
+next:
+  text: 'Alphabet et prononciation'
+  link: './alphabet-pronunciation'
+---
+
 # Module 1 — Les fondations
 
-Ce module pose les bases indispensables avant de construire des phrases.
-Aucun prérequis n'est nécessaire.
+**Prérequis :** aucun
 
-## Leçons
+**Objectif :** acquérir les bases indispensables avant de construire des phrases — lire, prononcer, compter, et se présenter en espagnol.
 
-1. [Alphabet et prononciation](./alphabet-pronunciation) — les sons spécifiques à l'espagnol
-2. [Les chiffres et l'heure](./numbers-time) — compter, dire l'heure, les dates
-3. [Le genre et les articles](./gender-articles) — el/la, un/una, règles et exceptions
-4. [Se présenter](./introducing-yourself) — me llamo, tengo, soy de...
+Tu pars de zéro. Ce module pose les fondations : les sons de la langue, les chiffres, le genre des noms, et les premières phrases pour te présenter.
+
+## Au programme
+
+<div class="mt-6 grid gap-3">
+
+  <a href="./alphabet-pronunciation" class="group flex items-start gap-5 p-5 rounded-xl border border-gray-200 hover:border-red-400 hover:shadow-md transition-all duration-200 no-underline">
+    <span class="text-3xl font-black text-gray-300 group-hover:text-red-200 transition-colors select-none w-8 text-center shrink-0">1</span>
+    <div class="min-w-0">
+      <div class="font-semibold text-gray-900 group-hover:text-red-600 transition-colors">Alphabet et prononciation</div>
+      <div class="text-sm text-gray-500 mt-1">Les sons spécifiques à l'espagnol : ñ, ll, rr, j, h muet.</div>
+    </div>
+    <span class="ml-auto text-gray-300 group-hover:text-red-400 transition-colors shrink-0">→</span>
+  </a>
+
+  <a href="./numbers-time" class="group flex items-start gap-5 p-5 rounded-xl border border-gray-200 hover:border-red-400 hover:shadow-md transition-all duration-200 no-underline">
+    <span class="text-3xl font-black text-gray-300 group-hover:text-red-200 transition-colors select-none w-8 text-center shrink-0">2</span>
+    <div class="min-w-0">
+      <div class="font-semibold text-gray-900 group-hover:text-red-600 transition-colors">Les chiffres et l'heure</div>
+      <div class="text-sm text-gray-500 mt-1">Compter, dire l'heure, les jours et les mois.</div>
+    </div>
+    <span class="ml-auto text-gray-300 group-hover:text-red-400 transition-colors shrink-0">→</span>
+  </a>
+
+  <a href="./gender-articles" class="group flex items-start gap-5 p-5 rounded-xl border border-gray-200 hover:border-red-400 hover:shadow-md transition-all duration-200 no-underline">
+    <span class="text-3xl font-black text-gray-300 group-hover:text-red-200 transition-colors select-none w-8 text-center shrink-0">3</span>
+    <div class="min-w-0">
+      <div class="font-semibold text-gray-900 group-hover:text-red-600 transition-colors">Le genre et les articles</div>
+      <div class="text-sm text-gray-500 mt-1">el/la, los/las, un/una — règles et exceptions.</div>
+    </div>
+    <span class="ml-auto text-gray-300 group-hover:text-red-400 transition-colors shrink-0">→</span>
+  </a>
+
+  <a href="./introducing-yourself" class="group flex items-start gap-5 p-5 rounded-xl border border-gray-200 hover:border-red-400 hover:shadow-md transition-all duration-200 no-underline">
+    <span class="text-3xl font-black text-gray-300 group-hover:text-red-200 transition-colors select-none w-8 text-center shrink-0">4</span>
+    <div class="min-w-0">
+      <div class="font-semibold text-gray-900 group-hover:text-red-600 transition-colors">Se présenter</div>
+      <div class="text-sm text-gray-500 mt-1">me llamo, tengo, soy de — les premières phrases.</div>
+    </div>
+    <span class="ml-auto text-gray-300 group-hover:text-red-400 transition-colors shrink-0">→</span>
+  </a>
+
+</div>
